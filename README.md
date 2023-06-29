@@ -1,13 +1,14 @@
 # Support my OSS work
 
-如果我的开源工作对您有帮助，您可考虑适当捐赠。**由于目前此仓库捐赠功能还处于审核状态，所以您可前往**
+如果我的开源工作对您有帮助，您可考虑适当捐赠。**由于目前此仓库捐赠功能还处于审核状态，所以您可前往**。
 
-1. **[rbenv-for-windows](https://github.com/ccmywish/rbenv-for-windows) 项目**来捐赠
-2. **[rbenv-cn](https://gitee.com/RubyKids/rbenv-cn)项目**来捐赠
+1. [爱发电](https://afdian.net/a/ccmywish)
+2. **[rbenv-for-windows](https://github.com/ccmywish/rbenv-for-windows) 项目仓库**来捐赠
+3. **[rbenv-cn](https://gitee.com/RubyKids/rbenv-cn) 项目仓库**来捐赠
 
-捐赠位置均位于上述项目README下方。捐赠时若有额外需求请您留下联系方式，或在某个项目的Issue中提到您的捐赠情况，我将优先考虑解决您的issue。
+捐赠位置均位于上述项目README下方。
 
-若您有额外的Ruby技术栈的定向开发需求（包括库维护、新程序的开发），可联系我 [ccmywish@qq.com](mailto://ccmywish@qq.com)
+联系我： [ccmywish@qq.com](mailto://ccmywish@qq.com)
 
 |  ID  |                           Project                            |                         Description                          |     Status     |
 | :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------: |
@@ -22,6 +23,3 @@
 |  9  |        [RubyKids](https://gitee.com/RubyKids)组织协作        | 包含[nvm-cn](https://gitee.com/RubyKids/nvm-cn),[scoop-cn](https://gitee.com/RubyKids/scoop-cn),[Linuxbrew-CN](https://gitee.com/RubyKids/Linuxbrew-CN)等各种项目 |  【日常维护】  |
 |  10  |                         To be added                          |                            ......                            |    【...】     |
 
-
-
-集中在这个仓库是因为，这样就无需对每个仓库开通捐赠申请，谢谢您的支持。
