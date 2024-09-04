@@ -2,7 +2,7 @@
 
 如果我的开源工作对您有帮助，您可考虑适当捐赠，通过：
 
-1. 本页最下方微信赞赏码 (本仓库 [./alltime.png](./alltime.png))
+1. 本页最下方微信赞赏码 (本仓库 [./alltime.png](https://gitee.com/ccmywish/support/blob/main/alltime.png))
 2. **[rbenv-for-windows](https://github.com/ccmywish/rbenv-for-windows) 项目Gitee仓库**来捐赠
 3. **[rbenv-cn](https://gitee.com/RubyMetric/rbenv-cn) 项目Gitee仓库**来捐赠
 
